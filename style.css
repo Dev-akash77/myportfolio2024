@@ -1037,6 +1037,9 @@ input{
 .right img {
    width: 20rem;
 }
+.about_left {
+   width: 100%;
+}
 .name_phone_email {
    gap: 1rem;
 }
