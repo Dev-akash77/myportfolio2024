@@ -1031,11 +1031,11 @@ input{
    h1 {
       font-size: 2.7rem;
   }
-  .right {
-   height:23rem;
+   .right {
+   height:29rem;
 }
 .right img {
-   width: 15rem;
+   width: 20rem;
 }
 .name_phone_email {
    gap: 1rem;
